@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Jeff Mangum",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jeff.mangum@nrao.edu",
+    "phone": "(434) 296-0347",
+    "url": "https://jmangum.github.io/",
+    "summary": "Scientist at the National Radio Astronomy Observatory.  Editor-in-Chief for the Publications of the Astsronomical Society of the Pacific (PASP)",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "520 Edgemont Road",
+      "postalCode": "VA 22903",
+      "city": "Charlottesville",
       "countryCode": "US",
-      "region": "California"
+      "region": "Virginia"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "JeffreyGMangum",
+        "url": "https://x.com/JefferyGMangum"
       }
     ]
   },
