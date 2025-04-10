@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "My research focuses on the study of the star formation process, including the ISM, feedback, and galaxy evolution, in the Universe using observations from ground- and space-based observatories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
