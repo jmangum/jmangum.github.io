@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Publications
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research focuses on the study of the star formation process, including the ISM, feedback, and galaxy evolution, in the Universe using observations from ground- and space-based observatories.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
