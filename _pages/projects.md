@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Research
 permalink: /projects/
 description: My research focuses on the study of the star formation process, including the ISM, feedback, and galaxy evolution, in the Universe using observations from ground- and space-based observatories.
 nav: true
