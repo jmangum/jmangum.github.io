@@ -30,7 +30,7 @@
       "startDate": "1995",
       "endDate": "...",
       "summary": "Science support for the design, installation, and characterization of radio telescope observatories.  Basic research into the star formation process in galaxies.",
-      "highlights": ["ALMA", "ngVLA"]
+      "highlights": ["ALMA"]
     }
     {
       "name": "Publications of the Astronomical Socieity of the Pacific (PASP)",
@@ -39,7 +39,7 @@
       "startDate": "2013",
       "endDate": "...",
       "summary": "Editor-in-Cheif for the Publications of the Astronomical Society of the Pacific (PASP).",
-      "highlights": ["ALMA", "ngVLA"]
+      "highlights": ["PASP"]
     }
   ],
   "education": [
