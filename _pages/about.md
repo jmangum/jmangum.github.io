@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Scientist
-          National Radio Astronomy Observatory
-          Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP)
+subtitle: <p>Scientist</p>
+          <p>National Radio Astronomy Observatory</p>
+          <p>Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP)</p>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
