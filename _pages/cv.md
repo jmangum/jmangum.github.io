@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://jmangum.github.io/Mangum_CV_20250408.pdf # /cv/
+permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
