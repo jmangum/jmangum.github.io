@@ -33,10 +33,3 @@ I am a Scientist at the [National Radio Astronomy Observatory](https://science.n
 
 I grew up in the small Northern California farming community of [Orland](https://www.cityoforland.com/).  I received my B.A. degree in Astronomy from the University of California at Berkeley, and my M.A. and Ph.D. degrees in Astronomy from the University of Virginia. In addition to astronomy, I like to build things with microcontrollers (weather stations, LED lamps, etc.) using the [CircuitPython](https://circuitpython.org) programming language.
 
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the 
-# YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) 
-# automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://
-# jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
