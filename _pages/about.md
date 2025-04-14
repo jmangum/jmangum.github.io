@@ -2,9 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Scientist</p>
-          <p>National Radio Astronomy Observatory</p>
-          <p>Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP)</p>
+subtitle: Scientist<br>
+          National Radio Astronomy Observatory<br>
+          Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP)
 
 profile:
   align: left
