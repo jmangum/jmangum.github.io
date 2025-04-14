@@ -52,7 +52,29 @@
       "startDate": "1988",
       "endDate": "1990",
       "score": "10",
-      "courses": ["Radio Astronomy"]
+      "courses": ["Thesis Title: The Throes of Star Formation: A Study of the Orion-KL and DR21(OH) Molecular Clouds"]
+    },
+    {
+      "institution": "University of Virginia",
+      "location": "Charlottesville, VA",
+      "url": "https://astronomy.as.virginia.edu/",
+      "area": "Astrophysical Research",
+      "studyType": "MA",
+      "startDate": "1985",
+      "endDate": "1988",
+      "score": "10",
+      "courses": ["Thesis Title: Observations of the 13C Isotopes of HC3N: Implications for Carbon Isotope Studies in the Milky Way"]
+    },
+    {
+      "institution": "University of California at Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://astro.berkeley.edu/",
+      "area": "Astrophysical Research",
+      "studyType": "BA",
+      "startDate": "1981",
+      "endDate": "1985",
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
