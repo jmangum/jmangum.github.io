@@ -332,12 +332,6 @@ filtered_bibtex_keywords:
     video,
     website,
   ]
-
-# --------------
-# Altmetric
-# --------------
-altmetric:
-  data-badge-type: donut
   
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
