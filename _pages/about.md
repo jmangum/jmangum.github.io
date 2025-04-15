@@ -7,7 +7,6 @@ subtitle: Scientist<br>
           Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP)
 scholar:
       order: "desc"  # Optional:  Change to "asc" to reverse the order
-      selected_title: Selected Publications
       # Add other scholar options if needed
 
 profile:
