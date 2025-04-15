@@ -5,6 +5,9 @@ permalink: /
 subtitle: Scientist<br>
           National Radio Astronomy Observatory<br>
           Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP)
+scholar:
+      order: "desc"  # Optional:  Change to "asc" to reverse the order
+      # Add other scholar options if needed
 
 profile:
   align: left
