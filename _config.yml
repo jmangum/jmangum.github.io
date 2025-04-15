@@ -300,6 +300,12 @@ scholar:
 
   selected_title: Selected Publications
 
+# --------------------------
+# Altmetric
+# --------------------------
+altmetric-embed:
+  data-badge-type: donut
+
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
