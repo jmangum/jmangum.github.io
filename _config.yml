@@ -144,11 +144,11 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
 
@@ -195,7 +195,7 @@ exclude:
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
-  - _projects/?_project.md
+  #- _projects/?_project.md
   - assets/jupyter/blog.ipynb
   - _pages/repositories.md
   - _includes/repository/
