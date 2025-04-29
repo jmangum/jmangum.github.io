@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Star Formation in Galaxies
 description: Molecular Spectral Line and Millimeter Continuum Emission
 img: assets/img/zeta_hexmap_allReg_hatch+outline_purple.jpg
 importance: 1
