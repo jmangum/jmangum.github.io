@@ -17,9 +17,6 @@ Using the nearby starburst galaxy NGC253 as a template, I am studying how star f
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/NGC253-HCNIntPanel.jpg" title="HCN integrated emission in NGC253" class="img-fluid rounded z-depth-1" %}
     </div>
-[//]: # (    <div class="col-sm mt-3 mt-md-0">)
-[//]: # (        {% include figure.liquid loading="eager" path="assets/img/NGC253-HNCIntPanel.jpg" title="HNC integrated emission in NGC253" class="img-fluid [//]: # rounded z-depth-1" %})
-[//]: # (    </div>)
 </div>
 <div class="caption">
     Left: Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.  HCN (middle) and HNC (right) integrated emission.
