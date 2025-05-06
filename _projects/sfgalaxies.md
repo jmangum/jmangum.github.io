@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Star Formation in Galaxies
-description: Molecular Spectral Line and Millimeter Continuum Emission
+description:
 img: assets/img/zeta_hexmap_allReg_hatch+outline_purple.jpg
 importance: 1
 category: work
 related_publications: true
 ---
-<div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div><br>
-<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div><br>
+<div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div>
+<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div>
 
 Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.
 
@@ -17,6 +17,11 @@ Using a neural network-based physical and chemical model of the NGC253 central m
         {% include figure.liquid loading="eager" path="assets/img/allParams_hexmap_noHatch_noHeatingSrcs.jpg" title="Neural network model constraints of the physical conditions in the NGC253 central molecular zone" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div><h2>Complex Organic Molecules Towards the Central Molecular Zone of NGC253</h2></div>
+<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250419631B/abstract" style="display:block;float:left;">Bouvier et al. 2025</a></h3></div>
+
+In Galactic star-forming (SF) regions, spatial variations of interstellar complex organic molecules (iCOMs) emission could reflect the source physical structure or different chemical formation pathways. Investigating iCOMs in extragalactic star formation regions may thus provide crucial information about these regions. As an active extragalactic star formation region, the central molecular zone (CMZ) of the nearby galaxy NGC 253 provides an ideal template for studying iCOMs under more extreme conditions. This study investigates the emission of a few selected iCOMs to characterize how the differences between iCOMs are influenced by the chemical and physical structure of the NGC253 CMZ.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
