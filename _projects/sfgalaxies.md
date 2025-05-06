@@ -7,18 +7,17 @@ importance: 1
 category: work
 related_publications: true
 ---
+<div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div><br>
+<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div><br>
 
-Using the nearby starburst galaxy NGC253 as a template, I am studying how star formation influences galaxy evolution using molecular spectral line and infrared-through-radio continuum imaging measurements.
+Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/allParams_hexmap_noHatch_noHeatingSrcs.jpg" title="Neural network model constraints of the physical conditions in the NGC253 central molecular zone" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-<div><h2><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h2></div>
-    Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/summary_icoms_v2.jpg" title="iCOMs schematic" class="img-fluid rounded z-depth-1" %}
