@@ -16,7 +16,7 @@ Using the nearby starburst galaxy NGC253 as a template, I am studying how star f
     </div>
 </div>
 <div class="caption">
-<h2></h2><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h2><p>
+<div><h2><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h2></div>
     Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.
 </div>
 <div class="row">
