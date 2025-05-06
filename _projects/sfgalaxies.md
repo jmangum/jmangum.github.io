@@ -14,20 +14,18 @@ Using the nearby starburst galaxy NGC253 as a template, I am studying how star f
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/allParams_hexmap_noHatch_noHeatingSrcs.jpg" title="Neural network model constraints of the physical conditions in the NGC253 central molecular zone" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/NGC253-HCNIntPanel.jpg" title="HCN integrated emission in NGC253" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    Left: Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.  HCN (middle) and HNC (right) integrated emission.
+<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract">Behrens et al. 2024</a><br>
+Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/summary_icoms_v2.jpg" title="iCOMs schematic." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Schematic (not to scale) summarising the possible formation pathways and chemical links between iCOMs and their emission origins within a GMC.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
