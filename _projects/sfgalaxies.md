@@ -19,7 +19,7 @@ related_publications: true
 </div>
 
 <div><h2>Complex Organic Molecules Towards the Central Molecular Zone of NGC253</h2></div>
-<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250419631B/abstract" style="display:block;float:left;">Bouvier et al. 2025</a></h3></div>
+<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250419631B/abstract" style="display:block;float:left;">Bouvier et al. 2025</a></h3></div><br>
 
 <p>In Galactic star-forming (SF) regions, spatial variations of interstellar complex organic molecules (iCOMs) emission could reflect the source physical structure or different chemical formation pathways. Investigating iCOMs in extragalactic star formation regions may thus provide crucial information about these regions. As an active extragalactic star formation region, the central molecular zone (CMZ) of the nearby galaxy NGC 253 provides an ideal template for studying iCOMs under more extreme conditions. This study investigates the emission of a few selected iCOMs to characterize how the differences between iCOMs are influenced by the chemical and physical structure of the NGC253 CMZ.</p>
 
