@@ -8,9 +8,9 @@ category: work
 related_publications: true
 ---
 <div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div>
-<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div>
+<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div><br>
 
-<div>Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.</div>
+<p>Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
