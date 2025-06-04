@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "My research focuses on the study of the star formation process, including the ISM, feedback, and galaxy evolution, in the Universe using observations from ground- and space-based observatories.",
+          description: "My research focuses on the study of the star formation process, including the ISM, feedback, and galaxy evolution, in the Universe using observations from ground- and space-based observatories.  I am also the Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
