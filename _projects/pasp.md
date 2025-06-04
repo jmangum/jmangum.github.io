@@ -2,7 +2,7 @@
 layout: page
 title: PASP
 description: Publications of the Astronomical Society of the Pacific
-img: assets/img/130729_hexacoptero_11.JPG
+img: assets/img/PASP-Cover-Top.jpeg
 importance: 3
 category: work
 related_publications: false
