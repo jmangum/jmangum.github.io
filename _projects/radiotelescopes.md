@@ -2,8 +2,8 @@
 layout: page
 title: Radio Telescopes
 description: Design, Construction, and Performance of Radio Telescopes
-img: assets/130729_hexacoptero_11.JPG
-importance: 1
+img: assets/img/130729_hexacoptero_11.JPG
+importance: 2
 category: work
 related_publications: false
 ---
