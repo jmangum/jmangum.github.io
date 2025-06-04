@@ -64,6 +64,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-pasp",
+          title: 'PASP',
+          description: "Publications of the Astronomical Society of the Pacific",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pasp/";
             },},{id: "projects-radio-telescopes",
           title: 'Radio Telescopes',
           description: "Design, Construction, and Performance of Radio Telescopes",
