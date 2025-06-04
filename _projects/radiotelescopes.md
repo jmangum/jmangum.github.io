@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Radio Telescopes
+description: Design, Construction, and Performance of Radio Telescopes
+img: assets/130729_hexacoptero_11.JPG
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
