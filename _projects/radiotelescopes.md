@@ -15,7 +15,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/allParams_hexmap_noHatch_noHeatingSrcs.jpg" title="Neural network model constraints of the physical conditions in the NGC253 central molecular zone" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DV01-X4aX91cX1-TowerHolo-20090315-NoTherm.jpg" title="Near-field holographic imaging of the ALMA NA DV06 antenna" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
