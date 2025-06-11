@@ -14,7 +14,7 @@ related_publications: false
 <p>Using both near- and far-field holographic imaging I have been involved in the surface performance characterization of a number of radio telescopes.</p>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/DV01-X4aX91cX1-TowerHolo-20090315-NoTherm.jpg" title="Near-field holographic imaging of the ALMA NA DV06 antenna" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -27,7 +27,11 @@ related_publications: false
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/DVAllSkyPointingSummary.jpg" title="iCOMs schematic" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/DVOffsetPointingSummary.jpg" title="iCOMs schematic" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/DVFSSummary.jpg" title="iCOMs schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -35,7 +39,7 @@ related_publications: false
     Summaries of the all-sky pointing, offset pointing, and fast-switching performance for the ALMA Vertex production antennas.
 </div>
 
-<div><h2>Other articles that I have Been involved with on this topic</h2></div>
+<div><h2>Other articles that I have been involved with on this topic</h2></div>
 <ul>
     <li><a href="https://2025.apsursi.org/view_paper.php?PaperNum=1609">HoloSim: A Methology for Near-Field Holographic System Design (Tringali etal. 2025)</a></li>
     <li><a href="https://ui.adsabs.harvard.edu/abs/2008IAPM...50b..66G/abstract">Mechanical Measurements of the ALMA Prototype Antennas (Greve etal. 2008)</a></li>
