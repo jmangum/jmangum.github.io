@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: people
 Students and Research Collaborators
 nav: true
 nav_order: 7
