@@ -1,3 +1,1 @@
-I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.
-
-Erica Behrens: Erica is a PhD Candidate from the University of Virginia.  Erica models star formation in galaxies.
+<h2>Erica Behrens</h2> is a PhD candidate in Astronomy at the University of Virginia and Reber Fellow at the National Radio Astronomy Observatory in Charlottesville Virginia.  I have been extremely fortunate to work with Erica over the past five-plus years on a wide-range of studies of molecular spectral line and continuum imaging of the star formation process in galaxies.
