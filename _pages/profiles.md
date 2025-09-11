@@ -14,15 +14,11 @@ profiles:
     content: EricaBehrens.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <a href=https://www.erica-behrens.com/ Erica's Web Site</a>
   - align: left
     image: MathildeBouvier.png
     content: MathildeBouvier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <a href=https://vitigroup.github.io/people.html Mathilde's Web Site</a>
 ---
