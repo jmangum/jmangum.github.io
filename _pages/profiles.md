@@ -14,11 +14,23 @@ profiles:
     content: EricaBehrens.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href=https://www.erica-behrens.com/ Erica's Web Site</a>
+      <a href=https://www.erica-behrens.com/> Erica's Web Site</a>
   - align: left
     image: MathildeBouvier.png
     content: MathildeBouvier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href=https://vitigroup.github.io/people.html Mathilde's Web Site</a>
+      <a href=https://vitigroup.github.io/people.html> Mathilde's Web Site</a>
+  - align: right
+    image: CosimaEibensteiner.jpg
+    content: CosimaEibensteiner.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href=https://ceibensteiner.wordpress.com/> Cosima's Web Site</a>
+  - align: left
+    image: viti.jpg
+    content: SerenaViti.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href=https://vitigroup.github.io/> Serena'a Research Group Web Site</a>
 ---
