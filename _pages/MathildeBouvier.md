@@ -1,3 +1,2 @@
-I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.
-
-Mathilde Bouvier: Mathilde is a Postdoc at Leiden University working with Serena Viti.
+<h2><a href=https://vitigroup.github.io/people.html Mathilde Bouvier</a></h2>
+Another excellent researcher that I am fortunate to work with is Mathilde Bouvier, who is a postdoc in Serena Viti's group at Leiden University.  Mathilde's specialty is astrophysical chemistry, lately focusing on sulfur-bearing molecules, with a goal toward understanding how sulfur-bearing species can help us understand the dynamic processes, such as outflows, shocks, etc., that participate in the star formation process in galaxies.
