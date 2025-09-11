@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Students and Research Collaborators
+description: I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.
 nav: true
 nav_order: 7
 
