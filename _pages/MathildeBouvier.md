@@ -1,2 +1,2 @@
-<h2><a href=https://vitigroup.github.io/people.html> Mathilde Bouvier</a></h2>
+<h2>Mathilde Bouvier</h2>
 Another excellent researcher that I am fortunate to work with is Mathilde Bouvier, who is a postdoc in Serena Viti's group at Leiden University.  Mathilde's specialty is astrophysical chemistry, lately focusing on sulfur-bearing molecules, with a goal toward understanding how sulfur-bearing species can help us understand the dynamic processes, such as outflows, shocks, etc., that participate in the star formation process in galaxies.
