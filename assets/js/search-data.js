@@ -71,6 +71,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-led-lamp",
+          title: 'LED Lamp',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LEDLamp/";
             },},{id: "projects-pasp",
           title: 'PASP',
           description: "Publications of the Astronomical Society of the Pacific",
