@@ -71,6 +71,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "fun-led-lamp",
+          title: 'LED Lamp',
+          description: "",
+          section: "Fun",handler: () => {
+              window.location.href = "/fun/LEDLamp/";
             },},{id: "projects-led-lamp",
           title: 'LED Lamp',
           description: "",
