@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Mangum_CV_20250421.pdf";
           },
-        },{id: "nav-fun",
-          title: "Fun",
-          description: "In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from [Adafruit Industries](https://adafruit.com) controlled using [CircuitPython](https://circuitpython.org).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/fun/";
-          },
         },{id: "nav-people",
           title: "People",
           description: "I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-fun",
+          title: "Fun",
+          description: "In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from [Adafruit Industries](https://adafruit.com) controlled using [CircuitPython](https://circuitpython.org).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/fun/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
