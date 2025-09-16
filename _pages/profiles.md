@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.
 nav: true
-nav_order: 7
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
