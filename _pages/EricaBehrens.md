@@ -1,2 +1,2 @@
-<h2>[Erica Behrens](https://www.erica-behrens.com/)</h2>
+<h2>Erica Behrens</h2>
 Erica is a PhD candidate in Astronomy at the University of Virginia and Reber Fellow at the National Radio Astronomy Observatory in Charlottesville Virginia.  I have been extremely fortunate to work with Erica over the past five-plus years on a wide-range of studies of molecular spectral line and continuum imaging of the star formation process in galaxies.
