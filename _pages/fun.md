@@ -5,7 +5,7 @@ permalink: /fun/
 description: In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from [Adafruit Industries](https://adafruit.com) controlled using [CircuitPython](https://circuitpython.org).
 nav: true
 nav_order: 6
-display_categories: [work, fun]
+display_categories: [fun]
 horizontal: false
 ---
 
