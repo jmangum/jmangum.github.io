@@ -75,7 +75,7 @@ ninja.data = [{
           title: 'Electronics and Art',
           description: "Electronics projects I have built, some with a bit of art mixed-in.",
           section: "Fun",handler: () => {
-              window.location.href = "/fun/LEDLamp/";
+              window.location.href = "/fun/Electronics/";
             },},{id: "projects-pasp",
           title: 'PASP',
           description: "Publications of the Astronomical Society of the Pacific",
