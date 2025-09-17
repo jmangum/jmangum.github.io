@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-fun",
           title: "Fun",
-          description: "In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from Adafruit Industries controlled in many projects using CircuitPython.",
+          description: "In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from [Adafruit Industries](https://adafruit.com) Adafruit Industries controlled in many projects using CircuitPython.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/fun/";
