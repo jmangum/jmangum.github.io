@@ -2,7 +2,7 @@
 layout: page
 title: Fun
 permalink: /fun/
-description: In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from <a href="https://adafruit.com">Adafruit Industries</a> controlled in many projects using <a href="https://circuitpython.org">CircuitPython</a>.
+description: In my spare time I like to create things (devices, art, ect.) with electronics.  Most of my creations use development boards and other hardware from [Adafruit Industries](https://adafruit.com) <a href="https://adafruit.com">Adafruit Industries</a> controlled in many projects using <a href="https://circuitpython.org">CircuitPython</a>.
 nav: true
 nav_order: 6
 display_categories: [fun]
