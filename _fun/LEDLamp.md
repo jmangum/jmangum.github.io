@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LED Lamp
-description: A very cool programmable LED lamp
+title: Electronics and Art
+description: Electronics projects I have built, some with a bit of art mixed-in.
 img: assets/img/PXL_20250414_002530575.MP.jpg
 importance: 1
 category: fun
