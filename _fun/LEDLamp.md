@@ -2,7 +2,7 @@
 layout: page
 title: LED Lamp
 description: A very cool programmable LED lamp
-img: assets/img/zeta_hexmap_allReg_hatch+outline_purple.jpg
+img: assets/video/PXL_20250414_002415358_muted_720p.mov
 importance: 1
 category: fun
 related_publications: false
