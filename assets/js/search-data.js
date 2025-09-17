@@ -73,7 +73,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "fun-led-lamp",
           title: 'LED Lamp',
-          description: "",
+          description: "A very cool programmable LED lamp",
           section: "Fun",handler: () => {
               window.location.href = "/fun/LEDLamp/";
             },},{id: "projects-pasp",
