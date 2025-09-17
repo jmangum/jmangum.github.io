@@ -2,7 +2,7 @@
 layout: page
 title: LED Lamp
 description: A very cool programmable LED lamp
-img: assets/video/PXL_20250414_002415358_muted_720p.mov
+img: assets/img/PXL_20250414_002530575.MP.jpg
 importance: 1
 category: fun
 related_publications: false
