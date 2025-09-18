@@ -3,7 +3,7 @@ layout: page
 title: A CAN Bus-Based Home Sensor Network
 description: Ever wondered what to do with that old twisted-pair phone cable running throughout your house?
 img: assets/img/PXL_20250414_002530575.MP.jpg
-importance: 1
+importance: 4
 category: fun
 related_publications: false
 ---
