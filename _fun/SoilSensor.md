@@ -3,7 +3,7 @@ layout: page
 title: A High-Tech Soil Sensor with a Cool Neopixel Display
 description: Putting the fun into keeping houseplants properly watered
 img: assets/img/PXL_20250414_002530575.MP.jpg
-importance: 1
+importance: 5
 category: fun
 related_publications: false
 ---
