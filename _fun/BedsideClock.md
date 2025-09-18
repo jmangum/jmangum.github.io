@@ -3,7 +3,7 @@ layout: page
 title: Bedside Clock
 description: Bedside clock that shows when the Sun is up and Moon phases
 img: assets/img/PXL_20250414_002530575.MP.jpg
-importance: 1
+importance: 3
 category: fun
 related_publications: false
 ---
