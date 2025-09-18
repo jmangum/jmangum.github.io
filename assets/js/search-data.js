@@ -71,6 +71,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "fun-iot-bird-animal-feeder",
+          title: 'IoT Bird (Animal) Feeder',
+          description: "A motion-activated camera catches hungry animals that visit this IoT feeder",
+          section: "Fun",handler: () => {
+              window.location.href = "/fun/IoTBirdFeeder/";
             },},{id: "fun-led-floor-lamp",
           title: 'LED Floor Lamp',
           description: "A very cool pulsing LED floor lamp",
