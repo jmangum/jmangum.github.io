@@ -3,7 +3,7 @@ layout: page
 title: IoT Bird (Animal) Feeder
 description: A motion-activated camera catches hungry animals that visit this IoT feeder
 img: assets/img/PXL_20250414_002530575.MP.jpg
-importance: 1
+importance: 2
 category: fun
 related_publications: false
 ---
