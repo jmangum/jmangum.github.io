@@ -279,8 +279,8 @@
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
-              data-badge-type="bar"
-              data-badge-popover="right"
+              data-badge-type="4"
+              data-badge-popover="left"
               {% if entry.altmetric != blank and entry.altmetric != 'true' %}
                 data-altmetric-id="{{ entry.altmetric }}"
               {% elsif entry.arxiv %}
