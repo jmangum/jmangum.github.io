@@ -71,11 +71,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "fun-electronics-and-art",
-          title: 'Electronics and Art',
-          description: "Electronics projects I have built, some with a bit of art mixed-in.",
+            },},{id: "fun-led-floor-lamp",
+          title: 'LED Floor Lamp',
+          description: "A very cool pulsing LED floor lamp",
           section: "Fun",handler: () => {
-              window.location.href = "/fun/Electronics/";
+              window.location.href = "/fun/LEDFloorLamp/";
             },},{id: "projects-pasp",
           title: 'PASP',
           description: "Publications of the Astronomical Society of the Pacific",
