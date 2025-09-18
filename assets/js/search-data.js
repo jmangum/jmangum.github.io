@@ -92,25 +92,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/sfgalaxies/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://jeffreygmangum.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6A%65%66%66.%6D%61%6E%67%75%6D@%6E%72%61%6F.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/jmangum", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -120,11 +106,25 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0003-1183-9293", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/jmangum", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=pRG2rVwAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://jeffreygmangum.bsky.social", "_blank");
         },
       },{
         id: 'social-x',
