@@ -3,7 +3,7 @@ layout: page
 title: Weather Station
 description: My first electronics project, and still my favorite
 img: assets/img/PXL_20250414_002530575.MP.jpg
-importance: 1
+importance: 6
 category: fun
 related_publications: false
 ---
