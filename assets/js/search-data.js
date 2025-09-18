@@ -86,11 +86,6 @@ ninja.data = [{
           description: "A very cool pulsing LED floor lamp",
           section: "Fun",handler: () => {
               window.location.href = "/fun/LEDFloorLamp/";
-            },},{id: "fun-weather-station",
-          title: 'Weather Station',
-          description: "My first electronics project, and still my favorite",
-          section: "Fun",handler: () => {
-              window.location.href = "/fun/WeatherStation/";
             },},{id: "projects-pasp",
           title: 'PASP',
           description: "Publications of the Astronomical Society of the Pacific",
