@@ -91,6 +91,11 @@ ninja.data = [{
           description: "A very cool pulsing LED floor lamp",
           section: "Fun",handler: () => {
               window.location.href = "/fun/LEDFloorLamp/";
+            },},{id: "fun-a-high-tech-soil-sensor-with-a-cool-neopixel-display",
+          title: 'A High-Tech Soil Sensor with a Cool Neopixel Display',
+          description: "Putting the fun into keeping houseplants properly watered",
+          section: "Fun",handler: () => {
+              window.location.href = "/fun/SoilSensor/";
             },},{id: "fun-weather-station",
           title: 'Weather Station',
           description: "My first electronics project, and still my favorite",
