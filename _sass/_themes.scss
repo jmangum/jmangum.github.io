@@ -91,7 +91,6 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
-  --global-card-text-color: #($green-color-light); /* JGM change */
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
@@ -99,7 +98,7 @@ html[data-theme="dark"] {
     0.5
   );
   --global-back-to-top-text-color: #{$black-color};
-  --global-newsletter-bg-color: #{$grey-color-light};
+  --global-newsletter-bg-color: #{$green-color-light}; /* JGM change from frey */
   --global-newsletter-text-color: #{$grey-color-dark};
 
   --global-tip-block: #42b983;
