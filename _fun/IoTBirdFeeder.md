@@ -15,6 +15,18 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/PXL_20250414_002415358_muted_720p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include figure.liquid loading="eager" path="assets/video/BirdFeederFront1.jpg"  title="IoT bird feeder front" class="img-fluid rounded z-depth-1"%}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/video/BirdFeederFront2.jpg"  title="IoT bird feeder front (different angle)" class="img-fluid rounded z-depth-1"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/video/BirdFeederBack2.jpg"  title="IoT bird feeder back (with electronics compartment cover shown)" class="img-fluid rounded z-depth-1"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/video/BirdFeederBack1.jpg"  title="IoT bird feeder back (showing electronics compartment)" class="img-fluid rounded z-depth-1"%}
+    </div>
+</div>
+<div class="caption" style="left">
+    Pictures of the IoT bird feeder.
 </div>
