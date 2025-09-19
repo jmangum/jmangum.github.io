@@ -2,15 +2,16 @@
 layout: page
 title: IoT Bird (Animal) Feeder
 description: A motion-activated camera catches hungry animals that visit this IoT feeder
-img: assets/img/PXL_20250414_002530575.MP.jpg
+img: assets/img/BirdFeederFront4.jpg
 importance: 2
 category: fun
 related_publications: false
 ---
 <div><h2>IoT Bird Feeder</h2></div>
-<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>
+<!--<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>-->
+<div><h3>IoT Bird (and Squirrel) Feeder with Motion Sensor-Activated Camera</h3></div><br>
 
-<p>Built this neopixel-based LED floor lamp by varying a design provided by Erin St Blaine.  It uses electronics from <a href="https://adafruit.com">Adafruit Industries</a>, some lumber, and a Hot Wheels track!  A microcontroller at the bottom of the LED string runs WLED, a publically-available LED control software package that allows me to control the lamp's LED animations from my phone.  Check-out the link above for my detailed design in the Adafruit Playground.</p>
+<p>Built this IoT bird feeder by varying a design provided by <a href="https://learn.adafruit.com/iot-window-bird-feeder-with-camera">the Ruiz Brothers and Liz Clark at Adafruit</a>.  If you have purused any of my other electronics projects, you know that I like to use wood instead of 3D printing for my enclosures.  For my variation on this project, I used some scrap pieces of redwood.  The electronics, which includes an RP2350 Pico 2W, motion sensor, OV5640 camera breakout with SD card reader/writer, and a 2.7A LiPo battery, sits inside a hollowed-out section in the back of the feeder.  Through holes accomodate the camera and motion sensor.  When it senses motion, camera takes a picture which is uploaded to AdafruitIO and written to the onboard SD card.  Since this design is not weather-proof I strap it to my deck railing (just in case a rambunctious squirrel tries to tip it over).  I can easily get several hundred pictures a day, like the examples below.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
