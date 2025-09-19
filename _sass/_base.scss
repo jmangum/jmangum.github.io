@@ -4,6 +4,9 @@
 
 // Typography
 
+body {
+  font-size: 18px;
+}
 /* p, */
 p {
   font-size: 18px; // Example for paragraph text
@@ -661,7 +664,6 @@ footer.sticky-bottom {
 .projects {
   a {
     text-decoration: none;
-    font-size: 18px; 
 
     &:hover {
       .card-title {
