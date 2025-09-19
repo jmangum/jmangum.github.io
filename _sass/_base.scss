@@ -171,7 +171,7 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
-  text-color: var(--global-card-text-color); /* JGM: New variable set in _themes.scss */
+  color: var(--global-card-text-color); /* JGM: New variable set in _themes.scss */
 
   .card-img {
     width: 100%;
