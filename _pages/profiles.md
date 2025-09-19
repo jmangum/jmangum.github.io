@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.
+description: <h3>I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.</h3>
 nav: true
 nav_order: 5
 
