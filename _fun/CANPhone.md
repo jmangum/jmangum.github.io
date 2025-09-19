@@ -23,3 +23,6 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/PhoneCANNode3.jpg" title="Another CAN bus node on my network.  I include backup LiPo batteries for all nodes to smooth over power failures." class="img-fluid rounded z-depth-1"%} 
     </div>
 </div>
+<div class="caption" style="left">
+    Pictures of my phone line-based CAN bus network nodes.
+</div>
