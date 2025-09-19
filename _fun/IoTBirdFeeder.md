@@ -15,16 +15,16 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/BirdFeederFront1.jpg"  title="IoT bird feeder front" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/BirdFeederFront1.jpg"  title="IoT bird feeder front" class="img-fluid rounded z-depth-1"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/BirdFeederFront2.jpg"  title="IoT bird feeder front (different angle)" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/BirdFeederFront2.jpg"  title="IoT bird feeder front (different angle)" class="img-fluid rounded z-depth-1"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/BirdFeederBack2.jpg"  title="IoT bird feeder back (with electronics compartment cover shown)" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/BirdFeederBack2.jpg"  title="IoT bird feeder back (with electronics compartment cover shown)" class="img-fluid rounded z-depth-1"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/BirdFeederBack1.jpg"  title="IoT bird feeder back (showing electronics compartment)" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/BirdFeederBack1.jpg"  title="IoT bird feeder back (showing electronics compartment)" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 <div class="caption" style="left">
