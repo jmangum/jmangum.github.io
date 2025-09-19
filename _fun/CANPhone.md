@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 <!--<div><h2>CAN-Bus Home Sensor Network</h2></div>-->
-<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/home-can-bus-network-using-telephone-wiring">Home CAN Bus Networking Using Telephone Wiring</a></h3></div><br>
+<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/home-can-bus-network-using-telephone-wiring">Home CAN Bus Networking Using Telephone Wiring</a></h3></div>
 
 <p>Have you ever wondered what you can do with your unused twisted-pair telephone wire running throughout your house? Well, how about using it as the transport medium for a CAN bus network of environmental sensors? This project, which I dubbed PhoneCAN, is a relatively easy project which uses Adafruit hardware and CiruitPython.  My setup uses four CAN nodes.  Check-out the link above for my detailed design in the Adafruit Playground.</p>
 
@@ -24,5 +24,5 @@ related_publications: false
     </div>
 </div>
 <div class="caption" style="left">
-    Pictures of my phone line-based CAN bus network nodes.
+    Pictures of my phone line-based CAN bus network nodes.  Left-to-right: (1) I incorporated an display on one of my nodes to display current measurements for that node.  (2) Shows how the CAN node connects to my home phone line wiring.  (3) Another CAN node on my network.  I in corporated LiPo batters to serve as power backup.
 </div>
