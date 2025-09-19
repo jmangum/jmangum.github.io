@@ -6,7 +6,7 @@
 
 /* p, */
 p {
-  font-size: 18px; // Example for paragraph text
+  font-size: 18px; // JGM change to make About text larger.  Set to same as post-description text below
 }
 h1,
 h2,
@@ -233,7 +233,7 @@ ul.task-list input[type="checkbox"] {
 .post-description {
   margin-bottom: 2rem;
   /*font-size: 0.875rem;*/
-  font-size: 1.5rem;
+  font-size: 18px; /* JGM modification to get larger font for Projects and Fun.  Set to same as p text above */
 
   a {
     color: inherit;
