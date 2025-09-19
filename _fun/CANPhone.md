@@ -2,15 +2,15 @@
 layout: page
 title: A CAN Bus-Based Home Sensor Network
 description: Ever wondered what to do with that old twisted-pair phone cable running throughout your house?
-img: assets/img/PXL_20250414_002530575.MP.jpg
+img: assets/img/PhoneCANNode1.jpg
 importance: 4
 category: fun
 related_publications: false
 ---
-<div><h2>CAN-Bus Home Sensor Network</h2></div>
-<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>
+<!--<div><h2>CAN-Bus Home Sensor Network</h2></div>-->
+<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/home-can-bus-network-using-telephone-wiring">Home CAN Bus Networking Using Telephone Wiring</a></h3></div><br>
 
-<p>Built this neopixel-based LED floor lamp by varying a design provided by Erin St Blaine.  It uses electronics from <a href="https://adafruit.com">Adafruit Industries</a>, some lumber, and a Hot Wheels track!  A microcontroller at the bottom of the LED string runs WLED, a publically-available LED control software package that allows me to control the lamp's LED animations from my phone.  Check-out the link above for my detailed design in the Adafruit Playground.</p>
+<p>Have you ever wondered what you can do with your unused twisted-pair telephone wire running throughout your house? Well, how about using it as the transport medium for a CAN bus network of environmental sensors? This project, which I dubbed PhoneCAN, is a relatively easy project which uses Adafruit hardware and CiruitPython.  My setup uses four CAN nodes.  Check-out the link above for my detailed design in the Adafruit Playground.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
