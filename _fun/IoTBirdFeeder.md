@@ -7,7 +7,7 @@ importance: 2
 category: fun
 related_publications: false
 ---
-<div><h2>IoT Bird Feeder</h2></div>
+<!--<div><h2>IoT Bird Feeder</h2></div>-->
 <!--<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>-->
 <div><h3>IoT Bird (and Squirrel) Feeder with Motion Sensor-Activated Camera</h3></div><br>
 
@@ -29,4 +29,19 @@ related_publications: false
 </div>
 <div class="caption" style="left">
     Pictures of the IoT bird feeder (left-to-right): (1) Feeder from the front.  You can see the holes for the camera (smaller top hole) and motion sensor (larger bottom hole).  I used a jam jar lid that I glued to the feeder with carpet tape to hold the birdseed. (2) Animal-view of the feeder.  (3) Back of the feeder with electronics compartment cover installed.  I used a piece of 1/4 inch veneer and two window screen clasps to cover the hole that contains the electronics.  (4) Back of the feeder with electronics cover removed.  I used a piece of soft packing foam to (gently) hold the electronics in-place in the compartment.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/BlueJay20250228-3.jpg"  title="IoT bird feeder front" class="img-fluid rounded z-depth-1"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Squirrel20250429-1.jpg"  title="IoT bird feeder front (different angle)" class="img-fluid rounded z-depth-1"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SquirrelMoon20250429.jpg"  title="IoT bird feeder back (with electronics compartment cover shown)" class="img-fluid rounded z-depth-1"%}
+    </div>
+</div>
+<div class="caption" style="left">
+    Some animals caught feeding at my IoT feeder (left-to-right): (1) A nice looking Blue Jay.  (2) A pair of squirrels are regular visitors to my IoT feeder.  This little guy will dine for more than 30 minutes at a time.  (3) Sometimes my squirrel visitors will position themselves such that they "moon" my feeder camera.  I have hundreds of such squirrel perspectives.
 </div>
