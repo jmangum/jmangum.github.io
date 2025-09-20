@@ -24,5 +24,5 @@ related_publications: false
     </div>
 </div>
 <div class="caption" style="left">
-    Pictures of my phone line-based CAN bus network nodes.  Left-to-right: (1) I incorporated an display on one of my nodes to display current measurements for that node.  (2) Shows how the CAN node connects to my home phone line wiring.  (3) Another CAN node on my network.  I in corporated LiPo batters to serve as power backup.
+    Pictures of my phone line-based CAN bus network nodes.  Left-to-right: (1) I incorporated an display on one of my nodes to display current measurements for that node.  (2) Shows how the CAN node connects to my home phone line wiring.  (3) Another CAN node on my network.  I in corporated LiPo batteries to serve as power backup.
 </div>
