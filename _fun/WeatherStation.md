@@ -15,6 +15,15 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/PXL_20250414_002415358_muted_720p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include figure.liquid loading="eager" path="assets/img/PhoneCANNode2.jpg" title="One of the CAN bus nodes in my home sensor network." class="img-fluid rounded z-depth-1"%} 
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PhoneCANNode1.jpg" title="CAN bus node showing connection to one of the phone jacks in my house." class="img-fluid rounded z-depth-1"%} 
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PhoneCANNode3.jpg" title="Another CAN bus node on my network.  I include backup LiPo batteries for all nodes to smooth over power failures." class="img-fluid rounded z-depth-1"%} 
+    </div>
+</div>
+<div class="caption" style="left">
+    Pictures of my phone line-based CAN bus network nodes.  Left-to-right: (1) I incorporated an display on one of my nodes to display current measurements for that node.  (2) Shows how the CAN node connects to my home phone line wiring.  (3) Another CAN node on my network.  I in corporated LiPo batteries to serve as power backup.
 </div>
