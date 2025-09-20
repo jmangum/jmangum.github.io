@@ -2,7 +2,7 @@
 layout: page
 title: Bedside Clock
 description: Bedside clock that shows when the Sun is up and Moon phases
-img: assets/img/BedSideClockInnards.jpg
+img: assets/img/BedSideClockDay1.jpg
 importance: 3
 category: fun
 related_publications: false
@@ -15,16 +15,19 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BedSideClockInnards.jpg" title="Bedside clock electronics (ESP32-S2, gesture sensor)" class="img-fluid rounded z-depth-1"%} 
+        {% include figure.liquid loading="eager" path="assets/img/BedSideClockDay1.jpg" title="Bedside clock front view during daytime" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BedSideClockInnards.jpg" title="Bedside clock in action (daytime view)" class="img-fluid rounded z-depth-1"%} 
+        {% include figure.liquid loading="eager" path="assets/img/BedSideClockDay3.jpg" title="Bedside clock front view in daytime, showing enclosure" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/BedSideClockInnards.jpg" title="Bedside clock in action (night view)" class="img-fluid rounded z-depth-1"%} 
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/BedSideClockInnards.jpg" title="Bedside clock innards (ESP32-S3 and gesture sensor)" class="img-fluid rounded z-depth-1"%} 
+    </div>
 </div>
 <div class="caption" style="left">
-    Pictures of my bedside clock.  Left-to-right: (1) Electronics that comprise the clock.  (2) Daytime view.  (3) Night time view.
+    Pictures and a movie of my bedside clock.  Left-to-right: (1) Bedside clock as it appears during the day.  (2) Daytime view from another angle to show enclosure and gesture sensor access (hole in top of enclosure).  (3) Night time view.  (4) Bedside clock innards (ESP32-S3 and gesture sensor).
 </div>
 
