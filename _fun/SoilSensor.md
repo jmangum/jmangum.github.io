@@ -29,7 +29,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/SoilMoistureSensor2.jpg" title="Soil moisture sensor (angle showing the enclosure)" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/SoilMoistureSensorInAction.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/SoilMoistureSensorInAction-720p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption" style="left">
