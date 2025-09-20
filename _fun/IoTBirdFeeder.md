@@ -39,7 +39,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/Squirrel20250429-1.jpg"  title="Squirrels are frequent visitors to my IoT bird feeder" class="img-fluid rounded z-depth-1"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SquirrelMoon20250429.jpg"  title="Yup...I am frequently "mooned" by my squirrel visitors" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/SquirrelMoon20250429.jpg"  title="Yup...I am frequently 'mooned' by my squirrel visitors" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 <div class="caption" style="left">
