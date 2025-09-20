@@ -26,7 +26,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/SoilMoistureSensor1.jpg" title="Soil moisture sensor" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BedSideClockDay3.jpg" title="Soil moisture sensor (angle showing the enclosure)" class="img-fluid rounded z-depth-1"%} 
+        {% include figure.liquid loading="eager" path="assets/img/SoilMoistureSensor2.jpg" title="Soil moisture sensor (angle showing the enclosure)" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/SoilMoistureSensorInAction.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
