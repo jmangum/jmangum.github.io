@@ -2,7 +2,7 @@
 layout: page
 title: A High-Tech Soil Moisture Sensor with a Cool Neopixel Display
 description: Putting the fun into keeping houseplants properly watered
-img: assets/img/SoilSensor1.jpg
+img: assets/img/SoilMoistureSensor1.jpg
 importance: 5
 category: fun
 related_publications: false
