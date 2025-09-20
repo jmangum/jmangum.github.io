@@ -28,7 +28,8 @@ related_publications: false
     </div>
 </div>
 <div class="caption" style="left">
-    Pictures of the IoT bird feeder (left-to-right): (1) Feeder from the front.  You can see the holes for the camera (smaller top hole) and motion sensor (larger bottom hole).  I used a jam jar lid that I glued to the feeder with carpet tape to hold the birdseed. (2) Animal-view of the feeder.  (3) Back of the feeder with electronics compartment cover installed.  I used a piece of 1/4 inch veneer and two window screen clasps to cover the hole that contains the electronics.  (4) Back of the feeder with electronics cover removed.  I used a piece of soft packing foam to (gently) hold the electronics in-place in the compartment.
+    <p style="text-align: left;">
+    Pictures of the IoT bird feeder (left-to-right): (1) Feeder from the front.  You can see the holes for the camera (smaller top hole) and motion sensor (larger bottom hole).  I used a jam jar lid that I glued to the feeder with carpet tape to hold the birdseed. (2) Animal-view of the feeder.  (3) Back of the feeder with electronics compartment cover installed.  I used a piece of 1/4 inch veneer and two window screen clasps to cover the hole that contains the electronics.  (4) Back of the feeder with electronics cover removed.  I used a piece of soft packing foam to (gently) hold the electronics in-place in the compartment.</p>
 </div>
 
 <div class="row">
@@ -43,5 +44,6 @@ related_publications: false
     </div>
 </div>
 <div class="caption" style="left">
-    Some animals caught feeding at my IoT feeder (left-to-right): (1) A nice looking Blue Jay.  (2) A pair of squirrels are regular visitors to my IoT feeder.  This little guy will dine for more than 30 minutes at a time.  (3) Sometimes my squirrel visitors will position themselves such that they "moon" my feeder camera.  I have hundreds of such squirrel perspectives.
+    <p style="text-align: left;">
+    Some animals caught feeding at my IoT feeder (left-to-right): (1) A nice looking Blue Jay.  (2) A pair of squirrels are regular visitors to my IoT feeder.  This little guy will dine for more than 30 minutes at a time.  (3) Sometimes my squirrel visitors will position themselves such that they "moon" my feeder camera.  I have hundreds of such squirrel perspectives.</p>
 </div>
