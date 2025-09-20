@@ -1,9 +1,17 @@
-
-
-<div><h2>Other articles that I have been involved with on this topic</h2></div>
+---
+layout: page
+title: Projects In-Progress
+description: Projects in-progress
+img: assets/img/PXL_20250414_002530575.MP.jpg
+importance: 7
+category: fun
+related_publications: false
+---
+<!--<div><h2>LED Floor Lamp</h2></div>-->
+<!--<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>-->
+<div><h3>Projects In-Progress</h3></div><br>
 <ul>
-    <li><a href="https://sites.google.com/view/alchemi/publications">The Complete ALCHEMI Large Program Publications List</a></li>
-    <li><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250407762D/abstract">Millimeter Emission from Supermassive Black Hole Coronae (del Palacio etal. 2025)</a></li>
-    <li><a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.163L/abstract">The Fountain of the Luminous Infrared Galaxy Zw049.057 as traced by its OH Megamaser (Lankhaar etal. 2024)</a></li>
-    <li><a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..48N/abstract">CON-quest. II. Spatially and Spectrally Resolved HCN/HCO+ Line Ratios in Local Luminous and Ultraluminous Infrared Galaxies (Nishimura etal. 2024)</a></li>
+    <li>GPS Tracker:</li> Implementation of an Adafruit "Ultimate GPS" module in a mobile GPS tracking package.
+    <li>Radio Telegraph:</li> Just what is sounds like.  A telegraph (with actual telegraph keys) which uses a pair of RFM95 transceivers to send and receive Morse code.
+    <li>Local Weather Station Display:</li> A second relay display for my weather station measurements.  Uses one of Adafruit's new RGB-666 4-inch displays with touch control.
 </ul>
