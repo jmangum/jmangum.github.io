@@ -81,6 +81,11 @@ ninja.data = [{
           description: "Ever wondered what to do with that old twisted-pair phone cable running throughout your house?",
           section: "Fun",handler: () => {
               window.location.href = "/fun/CANPhone/";
+            },},{id: "fun-projects-in-progress",
+          title: 'Projects In-Progress',
+          description: "Projects in-progress",
+          section: "Fun",handler: () => {
+              window.location.href = "/fun/InProgress/";
             },},{id: "fun-iot-bird-animal-feeder",
           title: 'IoT Bird (Animal) Feeder',
           description: "A motion-activated camera catches hungry animals that visit this IoT feeder",
