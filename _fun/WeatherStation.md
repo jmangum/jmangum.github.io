@@ -7,6 +7,9 @@ importance: 6
 category: fun
 related_publications: false
 ---
+<script>
+    document.write('<a href="' + document.referrer + '">Go Back to Fun</a>');
+</script><br>
 <!--<div><h2>Weather Station</h2></div>-->
 <!--<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>-->
 <div><h3>Home Weather Station</h3></div><br>
