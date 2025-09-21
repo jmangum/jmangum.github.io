@@ -7,6 +7,9 @@ importance: 4
 category: fun
 related_publications: false
 ---
+<script>
+    document.write('<a href="' + document.referrer + '">Go Back to Fun</a>');
+</script><br>
 <!--<div><h2>CAN-Bus Home Sensor Network</h2></div>-->
 <div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/home-can-bus-network-using-telephone-wiring">Home CAN Bus Networking Using Telephone Wiring</a></h3></div>
 
