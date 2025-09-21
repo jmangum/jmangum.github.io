@@ -30,7 +30,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/BedSideClockInnards.jpg" title="Bedside clock innards (ESP32-S3 and gesture sensor)" class="img-fluid rounded z-depth-1"%} 
     </div>
 </div>
-<div class="caption" style="left">
+<div class="caption" style="text-align: left;">
     Pictures and a movie of my bedside clock.  Left-to-right: (1) Bedside clock as it appears during the day.  (2) Daytime view from another angle to show enclosure and gesture sensor access (hole in top of enclosure).  (3) Night time view.  (4) Bedside clock innards (ESP32-S3 and gesture sensor).
 </div>
 
