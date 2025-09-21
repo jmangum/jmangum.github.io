@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 <script>
-    document.write('<a href="' + document.referrer + '">Go Back to Research Projects</a>');
+    document.write('<a href="' + document.referrer + '"><-- Go Back to Research Projects</a>');
 </script><br>
 
 <div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div>
