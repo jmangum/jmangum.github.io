@@ -7,7 +7,9 @@ importance: 3
 category: work
 related_publications: false
 ---
----
+<script>
+    document.write('<a href="' + document.referrer + '">Go Back to Research Projects</a>');
+</script><br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
