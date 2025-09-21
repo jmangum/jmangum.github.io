@@ -27,6 +27,6 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/WeatherDisplayAlt.jpg" title="Weather measurement display (alternate measurements that I could not fit on either of the other two displays, such as ground temperature)." class="img-fluid rounded z-depth-1"%} 
     </div>
 </div>
-<div class="caption" style="left">
+<div class="caption" style="text-align: left;">
     Pictures of my home weather sensor system measurement display.  Left-to-right: (1) Weather sensor measurements in US units.  (2) Weather sensor measurements in metric units.   (3) Weather sensor measurements that could not fit on either the US or metric display, such as measurements from a ground temperature sensor.
 </div>
