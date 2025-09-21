@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 <script>
-    document.write('<a href="' + document.referrer + '">Go Back to Research Projects</a>');
+    document.write('<a href="' + document.referrer + '"><-- Go Back to Research Projects</a>');
 </script><br>
 
 <div><h2>Holographic Measurements of Radio Telescope Antennas</h2></div>
