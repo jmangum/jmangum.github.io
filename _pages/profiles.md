@@ -32,5 +32,5 @@ profiles:
     content: SerenaViti.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href=https://vitigroup.github.io/> Serena'a Research Group Web Site</a>
+      <a href=https://vitigroup.github.io/> Serena'a Web Site</a>
 ---
