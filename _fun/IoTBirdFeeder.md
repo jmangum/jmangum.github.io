@@ -30,9 +30,8 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/BirdFeederBack1.jpg"  title="IoT bird feeder back (showing electronics compartment)" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
-<div class="caption" style="left">
-    <p style="text-align: left;">
-    Pictures of the IoT bird feeder (left-to-right): (1) Feeder from the front.  You can see the holes for the camera (smaller top hole) and motion sensor (larger bottom hole).  I used a jam jar lid that I glued to the feeder with carpet tape to hold the birdseed. (2) Animal-view of the feeder.  (3) Back of the feeder with electronics compartment cover installed.  I used a piece of 1/4 inch veneer and two window screen clasps to cover the hole that contains the electronics.  (4) Back of the feeder with electronics cover removed.  I used a piece of soft packing foam to (gently) hold the electronics in-place in the compartment.</p>
+<div class="caption" style="text-align: left;">
+    Pictures of the IoT bird feeder (left-to-right): (1) Feeder from the front.  You can see the holes for the camera (smaller top hole) and motion sensor (larger bottom hole).  I used a jam jar lid that I glued to the feeder with carpet tape to hold the birdseed. (2) Animal-view of the feeder.  (3) Back of the feeder with electronics compartment cover installed.  I used a piece of 1/4 inch veneer and two window screen clasps to cover the hole that contains the electronics.  (4) Back of the feeder with electronics cover removed.  I used a piece of soft packing foam to (gently) hold the electronics in-place in the compartment.
 </div>
 
 <div class="row">
