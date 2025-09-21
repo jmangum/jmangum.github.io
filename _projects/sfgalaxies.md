@@ -32,7 +32,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/summary_icoms_v2.jpg" title="iCOMs schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption" style="left">
+<div class="caption" style="left" align="left">
     Schematic (not to scale) summarising the possible formation pathways and chemical links between iCOMs and their emission origins within a GMC.
 </div>
 
