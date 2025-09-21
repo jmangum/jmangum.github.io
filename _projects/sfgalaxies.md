@@ -9,7 +9,7 @@ related_publications: false
 ---
 <script>
     document.write('<a href="' + document.referrer + '">Go Back to Research Projects</a>');
-</script>
+</script><br>
 
 <div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div>
 <div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div><br>
