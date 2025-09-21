@@ -12,15 +12,10 @@ related_publications: false
 </script><br>
 
 <div><h2>The ALCHEMI ALMA Large Programme</h2></div>
+<p> I am a co-PI for the ALMA Cycle 5 Large Programme "ALma Comprehensive High-resolution Extragalactic Molecular Inventory (ALCHEMI)".  ALCHEMI imaged the Central Molecular Zone (CMZ) of the nearby starburst galaxy NGC253 with the ALMA frequency bands 3, 4, 6, and 7 (ALMA program 2017.1.00161.L).  The survey was subsequently extended to ALMA Band 5 through the ALMA Cycle 6 project 2018.1.00162.S).  The following publications were produced using the ALCHEMI survey.
+</p>
+
 <div class="publications">
   {% bibliography -f papers -q @*[topic~=alchemi]* %}
 </div>
-<div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div><br>
 
-<p>Using a neural network-based physical and chemical model of the NGC253 central molecular zone (CMZ), Behrens etal (2024) derived the physical conditions on 50pc scales.</p>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/allParams_hexmap_noHatch_noHeatingSrcs.jpg" title="Neural network model constraints of the physical conditions in the NGC253 central molecular zone" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
