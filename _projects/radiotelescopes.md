@@ -38,7 +38,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/DVFSSummary.jpg" title="iCOMs schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption" style="left">
+<div class="caption" style="text-align: left;">
     Summaries of the all-sky pointing, offset pointing, and fast-switching performance for the ALMA Vertex production antennas.
 </div>
 
