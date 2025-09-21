@@ -35,6 +35,6 @@ related_publications: false
         {% include video.liquid path="assets/video/SoilMoistureSensorInAction-720p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
-<div class="caption" style="left">
+<div class="caption" style="text-align: left;">
     Pictures and a movie of my soil moisture sensor.  Left-to-right: (1) Soil moisture sensor.  (2) Soil moisture sensor (angle so you can see the enclosure).  (3) Soil moisture sensor in-action.
 </div>
