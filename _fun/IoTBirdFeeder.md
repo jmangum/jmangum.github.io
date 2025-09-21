@@ -7,6 +7,9 @@ importance: 2
 category: fun
 related_publications: false
 ---
+<script>
+    document.write('<a href="' + document.referrer + '">Go Back to Fun</a>');
+</script><br>
 <!--<div><h2>IoT Bird Feeder</h2></div>-->
 <!--<div><h3><a href="https://adafruit-playground.com/u/jgmangum/pages/a-neopixel-floor-lamp-with-a-twist">Neopixel LED Floor Lamp with a Twist</a></h3></div><br>-->
 <div><h3>IoT Bird (and Squirrel) Feeder with Motion Sensor-Activated Camera</h3></div><br>
