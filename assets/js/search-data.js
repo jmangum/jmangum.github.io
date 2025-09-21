@@ -106,8 +106,8 @@ ninja.data = [{
           description: "My first electronics project, and still my favorite",
           section: "Fun",handler: () => {
               window.location.href = "/fun/WeatherStation/";
-            },},{id: "projects-the-alma-comprehensive-high-resolution-extragalactic-molecular-inventory-alchemi",
-          title: 'The ALma Comprehensive High-resolution Extragalactic Molecular Inventory (ALCHEMI)',
+            },},{id: "projects-alchemi",
+          title: 'ALCHEMI',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/alchemi/";
