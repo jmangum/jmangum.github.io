@@ -3,7 +3,7 @@ layout: page
 title: PASP
 description: Publications of the Astronomical Society of the Pacific
 img: assets/img/PASP-Cover-Top.jpg
-importance: 3
+importance: 4
 category: work
 related_publications: false
 ---
