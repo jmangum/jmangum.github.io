@@ -106,6 +106,11 @@ ninja.data = [{
           description: "My first electronics project, and still my favorite",
           section: "Fun",handler: () => {
               window.location.href = "/fun/WeatherStation/";
+            },},{id: "projects-the-alma-comprehensive-high-resolution-extragalactic-molecular-inventory-alchemi",
+          title: 'The ALma Comprehensive High-resolution Extragalactic Molecular Inventory (ALCHEMI)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/alchemi/";
             },},{id: "projects-pasp",
           title: 'PASP',
           description: "Publications of the Astronomical Society of the Pacific",
