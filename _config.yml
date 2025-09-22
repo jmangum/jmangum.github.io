@@ -639,7 +639,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # https://jmangum.github.io/cv/Mangum_CV_20250421.pdf # it can also be an url
+    json: https://jmangum.github.io/cv/Mangum_CV_20250921.pdf # assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
