@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Mangum_CV_20250921.pdf";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae for Jeff Mangum.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/assets/pdf/Mangum_CV_20250921.pdf";
-          },
         },{id: "nav-people",
           title: "People",
           description: "I am fortunate to have the opportunity to work with quite a few amazing scientists.  Below I list several people with whom I am actively collaborating.",
