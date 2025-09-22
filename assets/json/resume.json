@@ -20,6 +20,11 @@
         "username": "JeffreyGMangum",
         "url": "https://x.com/JefferyGMangum"
       }
+      {
+        "network": "Bluesky",
+        "username": "@JeffreyGMangum.bsky.social",
+        "url": "https://bsky.app/profile/jeffreygmangum.bsky.social"
+      }
     ]
   },
   "work": [
@@ -39,6 +44,24 @@
       "startDate": "2013",
       "endDate": "...",
       "summary": "Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP).",
+      "highlights": []
+    }
+    {
+      "name": "Submillimeter Telescope Observatory, University of Arizona",
+      "position": "Staff Scientist",
+      "url": ,
+      "startDate": "1992",
+      "endDate": "1995",
+      "summary": "Member of inaugural scientific staff during construction of the SMT.",
+      "highlights": []
+    }
+    {
+      "name": "University of Texas, Astronomy Department",
+      "position": "Postdoctoral Research Fellow",
+      "url": "https://astronomy.utexas.edu/",
+      "startDate": "1990",
+      "endDate": "1992",
+      "summary": "Postdoctoral researcher with the millimeter astronomy group.",
       "highlights": []
     }
   ],
@@ -90,6 +113,18 @@
         "Consulting"
       ]
     }
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C",
+        "PHP",
+        "LaTeX",
+        "FORTRAN"
+      ]
+    }
   ],
   "languages": [
     {
@@ -105,15 +140,23 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Astrophysical Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Star Formation",
+        "Galaxy Evolution",
+        "Interstellar Chemistry",
+        "Radio Measurement Calibration and Imaging",
+        "Radio Telescope Design and Performance Characterization"
+      ]
+    }
+    {
+      "name": "Electronics Projects",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Environmental Measurements",
+        "Wildlife",
+        "CircuitPython"
       ]
     }
   ],
