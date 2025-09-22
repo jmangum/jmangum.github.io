@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae for Jeff Mangum.",
+        },{id: "nav-summary-cv",
+          title: "Summary CV",
+          description: "See PDF file for full Curriculum Vitae for Jeff Mangum",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
