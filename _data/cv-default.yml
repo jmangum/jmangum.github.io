@@ -5,8 +5,10 @@
       value: Jeffrey Gary Mangum
     - name: Date of Birth
       value: 1962-12-29
-    - name: Languages
-      value: English, German
+    - name: Email
+      value: jeff.mangum@nrao.edu
+    - name: Web
+      value: https://jmangum.github.io
 
 - title: Education
   type: time_table
@@ -48,36 +50,65 @@
       year: 1990-1992
 
 - title: Skills
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Core Competency
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Academic research, publishing, antenna design and performance evaluation, teaching, and consultation
+        
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
+        - Reading, writing and speaking competencies for English, German (moderate)
+        
+    - title: Programming
+      items:
+        - Python, C, PHP, LaTeX, Fortran
+        
+    - title: Databases
+      items:
+        - MySQL
+        
+    - title: Web Development
+      items: 
+        - HTML, CSS, JavaScript, Apache Web Server
+        
+    - title: Analysis
+      items:
+        - CASA, Gildas, IDL, AIPS
+
+- title: Miscellaneous Experience
+  type: time_table
+  contents:
+    - title: Commission J Chair, United States National Committee (USNC) International Union of Radio Science (URSI)
+      year: 2018-2022
+
+    - title: Community Support Programs Coordinator, National Radio Astronomy Observatory
+      year: 2008–2014
+
+    - title: ALMA Calibration Group Lead, Atacama Large Millimeter/submillimeter Array (ALMA)
+      year: 2003–2010
+
+    - title: ALMATestFacilityDirector,AtacamaLargeMillimeter/submillimeterArray(ALMA)
+      year: 1998–2004
+
+    - title: Deputy Assistant Director for Tucson Operations, National Radio Astronomy Observatory
+      year: 1996–2001
+
+    - title: Research Experience for Undergraduates (REU) Program Coordinator, National Radio Astronomy Observatory
+      year: 1996–2014
+
+- title: Academic Appointments
+  type: time_table
+  contents:
+    - title: Visiting Scholar in the Department of Astronomy, University of Virginia
+      year: 2012–
+
+    - title: Research Professor of Astronomy, University of Virginia
+      year: 2005–2012
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Building things with microcontrollers and electronics programmed using CircuitPython
+
+- title: References (Available on Request)
