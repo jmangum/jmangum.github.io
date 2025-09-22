@@ -45,7 +45,7 @@
       "endDate": "...",
       "summary": "Editor-in-Chief for the Publications of the Astronomical Society of the Pacific (PASP).",
       "highlights": []
-    }
+    },
     {
       "name": "Submillimeter Telescope Observatory, University of Arizona",
       "position": "Staff Scientist",
@@ -54,7 +54,7 @@
       "endDate": "1995",
       "summary": "Member of inaugural scientific staff during construction of the SMT.",
       "highlights": []
-    }
+    },
     {
       "name": "University of Texas, Astronomy Department",
       "position": "Postdoctoral Research Fellow",
@@ -112,7 +112,7 @@
         "Teaching",
         "Consulting"
       ]
-    }
+    },
     {
       "name": "Programming",
       "level": "Master",
@@ -149,7 +149,7 @@
         "Radio Measurement Calibration and Imaging",
         "Radio Telescope Design and Performance Characterization"
       ]
-    }
+    },
     {
       "name": "Electronics Projects",
       "icon": "fa-solid fa-tag",
