@@ -6,7 +6,7 @@ description: My research focuses on the study of the star formation process in t
 nav: true
 nav_order: 2
 display_categories: [work]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
