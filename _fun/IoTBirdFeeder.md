@@ -36,6 +36,9 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Cardinal20250923173544.jpg"  title="This nice Cardinal comes around just about every day" class="img-fluid rounded z-depth-1"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/BlueJay20250228-3.jpg"  title="Blue Jay dining on some bird seed" class="img-fluid rounded z-depth-1"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -46,5 +49,5 @@ related_publications: false
     </div>
 </div>
 <div class="caption" style="text-align: left;">
-    Some animals caught feeding at my IoT feeder (left-to-right): (1) A nice looking Blue Jay.  (2) A pair of squirrels are regular visitors to my IoT feeder.  This little guy will dine for more than 30 minutes at a time.  (3) Sometimes my squirrel visitors will position themselves such that they "moon" my feeder camera.  I have hundreds of such squirrel perspectives.
+    Some animals caught feeding at my IoT feeder (left-to-right): (1) A beautiful Cardinal.  (2) A nice looking Blue Jay.  (3) A pair of squirrels are regular visitors to my IoT feeder.  This little guy will dine for more than 30 minutes at a time.  (4) Sometimes my squirrel visitors will position themselves such that they "moon" my feeder camera.  I have hundreds of such squirrel perspectives.
 </div>
