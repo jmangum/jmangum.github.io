@@ -18,7 +18,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    <iframe src="https://io.adafruit.com/jgmangum/dashboards/feedercam" width="60%" height="60%" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://io.adafruit.com/jgmangum/dashboards/feedercam?kiosk=true" width="60%" height="60%" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
     
