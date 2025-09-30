@@ -24,7 +24,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/BedSideClockDay3.jpg" title="Bedside clock front view in daytime, showing enclosure" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BedSideClockMoon1.jpg" title="Bedside clock in action (night view)" class="img-fluid rounded z-depth-1"%} 
+        {% include figure.liquid loading="eager" path="assets/img/BedSideClockMoon2.jpg" title="Bedside clock in action (night view)" class="img-fluid rounded z-depth-1"%} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/BedSideClockInnards.jpg" title="Bedside clock innards (ESP32-S3 and gesture sensor)" class="img-fluid rounded z-depth-1"%} 
