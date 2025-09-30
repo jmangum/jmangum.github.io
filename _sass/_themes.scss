@@ -80,8 +80,7 @@ html[data-theme="dark"] {
   color-scheme: dark;
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
-  /*--global-text-color: #{$grey-color-light};*/
-  --global-text-color: #{$green-color-drab};
+  --global-text-color: #{$grey-color-lighter};
   --global-text-color-light: #{$green-color-light};
   --global-theme-color: #{$green-color-bright};
   --global-hover-color: #{$green-color-bright};
