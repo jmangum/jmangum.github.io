@@ -134,11 +134,18 @@ ninja.data = [{
           window.open("mailto:%6A%65%66%66.%6D%61%6E%67%75%6D@%6E%72%61%6F.%65%64%75", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-ads_social',
+        title: 'Ads_social',
         section: 'Socials',
         handler: () => {
           window.open("https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Mangum%2C%20J.%22%20collection%3Aastronomy%20&sort=date%20desc%2C%20bibcode%20desc&p_=0", "_blank");
+        },
+      },{
+        id: 'social-scix_social',
+        title: 'Scix_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scixplorer.org/search?n=10&p=1&q=author%3A%22Mangum%2C+J.+G.%22&sort=citation_count_norm+desc&sort=date+desc", "_blank");
         },
       },{
         id: 'social-orcid',
