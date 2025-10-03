@@ -4,10 +4,14 @@
 
 email: jeff.mangum@nrao.edu # your email address
 # custom_social: # can be any name here other than the ones already defined above
-custom_social: # ADS
+ads_social: # ADS
  logo: https://ui.adsabs.harvard.edu/help/img/bbb_assets/ads_partial_logo_dark_background.svg
  title: ADS
  url: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Mangum%2C%20J.%22%20collection%3Aastronomy%20&sort=date%20desc%2C%20bibcode%20desc&p_=0
+scix_social: # ADS
+ logo: assets/img/scix.png
+ title: SciX
+ url: https://scixplorer.org/search?n=10&p=1&q=author%3A%22Mangum%2C+J.+G.%22&sort=citation_count_norm+desc&sort=date+desc
 orcid_id: 0000-0003-1183-9293 # your ORCID ID
 github_username: jmangum # your GitHub user name
 scholar_userid: pRG2rVwAAAAJ # your Google Scholar ID
