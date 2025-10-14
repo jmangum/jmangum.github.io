@@ -11,6 +11,18 @@ related_publications: false
     document.write('<a href="' + document.referrer + '"><-- Go Back to Research Projects</a>');
 </script><br>
 
+<div><h2>Verification Testing for the ngVLA 18m Prototype Antenna</h2></div>
+<div><h3><a href="https://library.nrao.edu/public/memos/ngvla/NGVLAA_12.pdf" style="display:block;float:left;">Mangum 2022</a></h3></div><br>
+
+<p>This memo presents an assessment of measurement system options and associated procedures which will enable customer acceptance testing of the ngVLA 18m prototype antenna.  Detailed design and analysis of testing procedures for surface, pointing, and path length performance are provided, as these three performance requirements drive software and hardware development for the ngVLA 18m antenna customer acceptance testing. Recommendations for how to perform surface, pointing, and path length performance measurements are provided.</p>
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Nref_freq_deltaz_5sec.png" title="Holographic measurement sensitivity modeling.  Equation 13 from the memo as a function of frequency. Contours are number of reference antennas for a holography grid point integration times of 5 seconds and holography target source fluxes (S). VLA receiver zenith system temperatures have been taken from the XML file which feeds the ETC. Vertical black dotted lines mark receiver band edges. A black arrow indicates the holography measurement sensitivity target of 35 μm" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 <div><h2>Holographic Measurements of Radio Telescope Antennas</h2></div>
 <div><h3><a href="https://ui.adsabs.harvard.edu/abs/2007IAPM...49...24B/abstract" style="display:block;float:left;">Baars et al. 2007</a></h3></div><br>
 
