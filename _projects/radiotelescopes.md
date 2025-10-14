@@ -11,7 +11,7 @@ related_publications: false
     document.write('<a href="' + document.referrer + '"><-- Go Back to Research Projects</a>');
 </script><br>
 
-<div><h2>Verification Testing for the ngVLA 18m Prototype Antenna</h2></div>
+<div><h2>ngVLA Antenna Memo 12: Verification Testing for the ngVLA 18m Prototype Antenna</h2></div>
 <div><h3><a href="https://library.nrao.edu/public/memos/ngvla/NGVLAA_12.pdf" style="display:block;float:left;">Mangum 2022</a></h3></div><br>
 
 <p>This memo presents an assessment of measurement system options and associated procedures which will enable customer acceptance testing of the ngVLA 18m prototype antenna.  Detailed design and analysis of testing procedures for surface, pointing, and path length performance are provided, as these three performance requirements drive software and hardware development for the ngVLA 18m antenna customer acceptance testing. Recommendations for how to perform surface, pointing, and path length performance measurements are provided.</p>
@@ -56,6 +56,7 @@ related_publications: false
 
 <div><h2>Other articles that I have been involved with on this topic</h2></div>
 <ul>
+    <li><a href="https://library.nrao.edu/public/memos/ngvla/NGVLAA_17.pdf">ngVLA Antenna Memo 17: ngVLA Pointing System Recommendation (Mangum 2024)</a></li>
     <li><a href="https://2025.apsursi.org/view_paper.php?PaperNum=1609">HoloSim: A Methology for Near-Field Holographic System Design (Tringali etal. 2025)</a></li>
     <li><a href="https://ui.adsabs.harvard.edu/abs/2008IAPM...50b..66G/abstract">Mechanical Measurements of the ALMA Prototype Antennas (Greve etal. 2008)</a></li>
     <li><a href="https://ui.adsabs.harvard.edu/abs/2007IAPM...49...84S/abstract">Study of the Dynamics of Large Reflector Antennas with Accelerometers (Snel etal. 2007)</a></li>
