@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/ # /assets/pdf/Mangum_CV_20250921.pdf
+permalink: /cv/ # /assets/pdf/Mangum_CV_20260423.pdf
 title: CV
 nav: true
 nav_order: 5
