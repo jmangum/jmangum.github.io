@@ -11,6 +11,17 @@ related_publications: false
     document.write('<a href="' + document.referrer + '"><-- Go Back to Research Projects</a>');
 </script><br>
 
+<div><h2>Testing the Physical Parameter Constraining Power of HCN and HNC With Neural Networks</h2></div>
+<div><h3><a href="https://scixplorer.org/abs/2026ApJ...998..274B/abstract" style="display:block;float:left;">Behrens et al. 2026</a></h3></div><br>
+
+<p>In this article we have studied how well the J=1-0 through 4-3 transitions of HCN and HNC constrain the volume density, molecular hydrogen column density, kinetic temperature, cosmic ray ionization rate, and beam filling factor within the Giant Molecular Cloud structures of the Central Molecular Zone of NGC253.  We use all combinations of HCN and HNC transitions to constrain chemical and radiative transfer models, and subsequently infer the gas conditions using a Bayesian nested sampling algorithm combined with neural network models for increased efficiency.  Specific recommendations for how well one can constrain physical conditions using HCN and HNC are derived.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Behrens2026Fig9.jpg" title="Fractional difference between the test and control medians for each test combination as well as ratio of test to control uncertainty in the high n-zeta region for each physical parameter studied" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div><h2>Neural Network Constraints of the Physical Parameters of the Central Molecular Zone of NGC253</h2></div>
 <div><h3><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977...38B/abstract" style="display:block;float:left;">Behrens et al. 2024</a></h3></div><br>
 
